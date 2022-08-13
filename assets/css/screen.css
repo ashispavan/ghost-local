@@ -290,6 +290,28 @@
     color: #fff;
 }
 
+.gh-contact-email {
+    font-size: 1.9rem;
+    line-height: 1.4;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.gh-contact-social {
+    fill: white;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.gh-contact-section {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .has-serif-title .gh-subscribe-title {
     font-family: var(--font-serif);
     letter-spacing: -0.01em;
